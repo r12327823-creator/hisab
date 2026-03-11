@@ -11,7 +11,6 @@
     "dev:convex": "convex dev"
   },
   "dependencies": {
-    "@convex-dev/convex": "^1.7.0",
     "@supabase/supabase-js": "^2.98.0",
     "@tailwindcss/vite": "^4.2.1",
     "autoprefixer": "^10.4.27",
