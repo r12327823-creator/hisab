@@ -7,13 +7,16 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "dev:convex": "convex dev"
   },
   "dependencies": {
+    "@convex-dev/convex": "^1.7.0",
     "@supabase/supabase-js": "^2.98.0",
     "@tailwindcss/vite": "^4.2.1",
     "autoprefixer": "^10.4.27",
     "clsx": "^2.1.1",
+    "convex": "^1.7.0",
     "lucide-react": "^0.577.0",
     "postcss": "^8.5.8",
     "react": "^19.2.0",
